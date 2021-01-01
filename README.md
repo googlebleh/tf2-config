@@ -1,6 +1,9 @@
 # tf2-config
 My custom config for Team Fortress 2. FPS configs are mostly Comanglia's work.
 
+## Install
+ln -sf "$PWD/cfg" "$HOME/.local/share/Steam/steamapps/common/Team Fortress 2/tf/cfg/user"
+
 My system:
   - OS: Ubuntu 17.04 x86_64
   - Model: HP ZBook 15 G3
